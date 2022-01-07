@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+</head>
+<body>
+	<table width="100%">
+		<tr>
+			<td width="16%" bgcolor="blue"></td>
+			<td align="center">
+				<font color="blue">
+					<img src="..\Web HTML + CSS +JS\bài lab\HTML+CSS\Bai 1.3 - Free.com\IMAGES\logosmall2.gif">
+					<br>
+					Who says nothing is <b>FREE?</b>
+					<br>
+					At FREE.com, the Internets’ most popular free site, thousands of people find something for nothing every day.
+					<br>
+					Over 8000 Internet sites offering products and services at no charge.
+					New free sites added every day.
+					<br>
+					Hundreds of categories, minimum of 10,000 Free items
+					<br>
+					Quick and easy Search allows you to find just what you’re looking for.
+					<br>
+					You can suggest a new free site that you like for addition to FREE.com
+					<br>
+					Review the offers and tell other Internet users what you thought of them.
+					<br>
+					Make FREE.com your first choice when searching for the best free sites and offers on the Net.
+					<br>
+					Oh, and by the way, it’s all Free! 
+					<br>
 
-You can use the [editor on GitHub](https://github.com/anhhuy0425/LEARN-HTML/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anhhuy0425/LEARN-HTML/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+					<table width="80%">
+						<tr>
+							<td align="center">
+								<img src="..\Web HTML + CSS +JS\bài lab\HTML+CSS\Bai 1.3 - Free.com\IMAGES\JOIN.GIF">
+							</td>
+							<td align="center">
+								<img src="..\Web HTML + CSS +JS\bài lab\HTML+CSS\Bai 1.3 - Free.com\IMAGES\JOIN.GIF">
+							</td>
+						</tr>
+						<tr>
+							<td>
+								Make FREE.com your first choice when searching for the best free sites and offers on the Net.
+							</td>
+							<td>
+								Make FREE.com your first choice when searching for the best free sites and offers on the Net.
+							</td>
+						</tr>
+					</table>
+				</font>
+			</td>
+			<td width="15%" bgcolor="blue"></td>
+		</tr>
+	</table>
+</body>
+</html>
